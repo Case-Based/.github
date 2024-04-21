@@ -1,0 +1,2 @@
+# .github
+✨ Our special repository.
